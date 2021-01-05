@@ -1,0 +1,2 @@
+Average of all the threads lifetime for the whole log dump : 16.0 s
+Standard Deviation of all the threads lifetime for the whole log dump : 5.864257508758654 s
